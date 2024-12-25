@@ -41,7 +41,7 @@ const data = await interview({
   // schema
   'username': {
 	type: String,
-	name: 'Username',
+	label: 'Username',
 	description: 'Enter your username.',
 	type: String,
 	required: true,
@@ -49,7 +49,7 @@ const data = await interview({
   },
   'password': {
 	type: String,
-	name: 'Password',
+	label: 'Password',
 	description: 'Enter your password.',
 	type: String,
 	required: true,
@@ -78,7 +78,7 @@ In addition to the build-in validators of isvalid, the following is also support
 
 | Name          | Description                                                 |   Type    | Default value |
 | ------------- | ----------------------------------------------------------- | :-------: | :-----------: |
-| `name`        | The string to print before the user input.                  | `String`  |               |
+| `label`       | The string to print before the user input.                  | `String`  |               |
 | `description` | The string to print above the question.                     | `String`  |               |
 | `silent`      | Indicates if the property is private (does not echo input). | `Boolean` |    `false`    |
 
