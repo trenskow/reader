@@ -1,6 +1,6 @@
 {
 	"name": "@trenskow/reader",
-	"version": "0.1.9",
+	"version": "0.1.10",
 	"description": "A simple package to ask questions of a stream.",
 	"main": "index.js",
 	"type": "module",
