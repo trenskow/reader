@@ -32,7 +32,7 @@
 	},
 	"dependencies": {
 		"@trenskow/print": "^0.1.10",
-		"isvalid": "^4.1.29",
+		"isvalid": "^4.1.30",
 		"keyd": "^2.1.18"
 	}
 }
