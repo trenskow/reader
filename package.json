@@ -27,13 +27,13 @@
 	"devDependencies": {
 		"@eslint/eslintrc": "^3.3.5",
 		"@eslint/js": "^10.0.1",
-		"eslint": "^10.4.1",
-		"globals": "^17.6.0"
+		"eslint": "^10.5.0",
+		"globals": "^17.7.0"
 	},
 	"dependencies": {
-		"@trenskow/print": "^0.1.61",
-		"isvalid": "^5.0.8",
-		"keyd": "^2.1.64",
+		"@trenskow/print": "^0.1.62",
+		"isvalid": "^5.0.9",
+		"keyd": "^2.1.65",
 		"puqeue": "^1.1.34"
 	}
 }
