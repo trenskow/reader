@@ -25,15 +25,15 @@
 	},
 	"homepage": "https://github.com/trenskow/reader#readme",
 	"devDependencies": {
-		"@eslint/eslintrc": "^3.3.5",
+		"@eslint/eslintrc": "^3.3.6",
 		"@eslint/js": "^10.0.1",
-		"eslint": "^10.6.0",
+		"eslint": "^10.7.0",
 		"globals": "^17.7.0"
 	},
 	"dependencies": {
-		"@trenskow/print": "^0.1.65",
-		"isvalid": "^5.0.12",
-		"keyd": "^2.1.68",
+		"@trenskow/print": "^0.1.66",
+		"isvalid": "^5.0.13",
+		"keyd": "^2.1.69",
 		"puqeue": "^1.1.36"
 	}
 }
