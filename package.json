@@ -31,9 +31,9 @@
 		"globals": "^17.12.0"
 	},
 	"dependencies": {
-		"@trenskow/print": "^0.1.76",
-		"isvalid": "^5.0.23",
-		"keyd": "^2.1.77",
-		"puqeue": "^1.1.41"
+		"@trenskow/print": "^0.1.77",
+		"isvalid": "^5.0.24",
+		"keyd": "^2.1.78",
+		"puqeue": "^1.1.42"
 	}
 }
